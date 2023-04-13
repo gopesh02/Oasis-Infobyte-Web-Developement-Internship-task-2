@@ -12,6 +12,6 @@ Language - HTML, CSS
 
 IDE - VS CODE
 
-GitHub Link - 
+LinkedIn Link - https://www.linkedin.com/posts/gopesh02_task2-oasisinfobyte-internship-activity-7052229311042322433-Io00?utm_source=share&utm_medium=member_desktop
 
 #web #development #intern #github #oasisinfobyte
